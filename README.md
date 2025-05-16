@@ -150,17 +150,3 @@ go test ./internal/service/...
 ```
 
 ---
-
-## 📄 Future Improvements
-
-- Persist user request history
-- Support for authentication (e.g., for admin API)
-- Deploy to cloud (e.g., Vercel, Render, Railway)
-- Add unit/integration tests for the frontend
-
----
-
-## 🧑‍💻 Author
-
-Developed as part of a technical recruitment task.  
-Stack: **Go**, **Next.js (React)**, **Tailwind CSS**, **Docker**.
